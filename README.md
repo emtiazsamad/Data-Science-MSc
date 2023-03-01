@@ -1,6 +1,9 @@
 # Data-Science-MSc
 A repository containing coursework and labs completed during my Masters in Data Science.
 
+## Research Project (MSc Thesis)
+This folder contains my research project on improving on model-free algorithms in deep reinforcement learning. In this project I take a former SOTA algorithm called R2D2, and make novel contributions in increasing the depth of the model and adding dense (skip) connections. This successfully improved the RL agent by increasing sample efficiency.
+
 ## Machine Learning 1
 This folder contains some of the fundamental ML algorithms such as decision trees and regression implemented from scratch.
 The coursework in this module focuses on:
