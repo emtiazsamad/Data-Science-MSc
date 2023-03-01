@@ -24,5 +24,5 @@ This module consisted of two lab components and a group project. The labs covere
 ## Software Technologies for Data Science
 This folder contains work which purely focuses on Python and SQL programming. SQLite was used in the project component for a task which required us to create a backend for a user interface to store data in a database. The functionality of the app (traffic counter) was coded using Python. The folder also consists of other labs which required knowledge of fundamental programming skills such as data structures and OOP.
 
-## Applied Data Science
-The work contained in this folder focuses more heavily on data extraction, analysis and visualisation skills as well as producing quality infographics and reports.
+## Applied Data Science (1 & 2)
+The work contained in this folder focuses more heavily on data extraction, analysis and visualisation skills as well as producing quality infographics and reports. The folder also contains a project on estimating the increased electricity demands due to the emergence of electric vehicles.
